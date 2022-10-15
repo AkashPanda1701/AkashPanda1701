@@ -1,6 +1,9 @@
 <h1 align="center">
  👋 Hi, I'm Akash Kumar Panda!
 </h1>
+<p>I'm a passionate Full Stack Web developer skilled in MERN stack who likes to do experiments and always ready for learning new things 😃. I focuses on writing clean, elegant and efficient code ✨</p>
+
+
  
 
 <p align="center">
