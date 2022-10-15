@@ -14,10 +14,9 @@
 
 
 
-- 🔭 I’m currently working on Backend and Frontend technologies 😅
-- 👨‍💻 I’m currently learning Java, Spring, Hibernate, SQL, AWS at Masai School.
-- 💬 Ask me about Java, Spring, Hibernate, SQL, AWS
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
+- 🔭 I’m currently working on Frontend and Backend technologies 😅
+- 👨‍💻 I’m currently learning React, Express, NodeJs, MongoDb at Masai School.
+- 💪🏼 Future Goals: Learn more technologies - Never stop implementing new ideas.
 - 👨‍💻 This is [My Portfolio]
 
 -  📄 This is [My Resume]
