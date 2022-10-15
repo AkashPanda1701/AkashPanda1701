@@ -83,24 +83,8 @@
       </a>
       <br>Hibernate
     </td>
-     <td align="center" width="96">
-      <a href="#bootstrap">
-        <img src="https://img.icons8.com/color/344/java-coffee-cup-logo--v1.png" width="48" height="48" alt="Java" />
-      </a>
-      <br>Java
-    </td>
-     <td align="center" width="96">
-      <a href="#js">
-        <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" width="48" height="48" alt="javascript" />
-      </a>
-      <br>MySQL
-    </td>
-<!--      <td align="center" width="96">
-      <a href="#vuejs">
-        <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="48" height="48" alt="Vuejs" />
-      </a>
-      <br>Vue JS
-    </td> -->
+    
+
   </tr>
    <td align="center" width="96">
       <a href="#html5">
@@ -122,12 +106,7 @@
     </td>
   </tr>
    <tr>
-      <td align="center" width="96">
-      <a href="#ubuntu" >
-        <img src="https://img.icons8.com/ios-filled/344/github.png" width="48" height="48" alt="ubuntu" />
-      </a>
-      <br>Ubuntu
-    </td>
+   
       <td align="center" width="96">
       <a href="#git" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
@@ -176,8 +155,6 @@
 
 
 <h2 align='left'>Thank You ❤</h2>
-<p align="center">
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="70%" height="65px">
-</p>	
+
  
 <br>
