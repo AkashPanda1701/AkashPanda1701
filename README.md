@@ -1,7 +1,15 @@
 <h1 align="center">
  👋 Hi, I'm Akash Kumar Panda!
 </h1>
-<p>I'm a passionate Full Stack Web developer skilled in MERN stack who likes to do experiments and always ready for learning new things 😃. I focuses on writing clean, elegant and efficient code ✨</p>
+<p>I'm a recent computer science graduate
+with a passion for developing scalable
+web applications and working across
+the full stack. Passionate about
+implementing new ideas in reality.
+Looking for the opportunity
+where I can utilize the extensive
+knowledge I have gained during my
+Full stack web development course😃. I focuses on writing clean, elegant and efficient code ✨</p>
 
 
 ## Connect with me:
