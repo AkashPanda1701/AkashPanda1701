@@ -4,6 +4,12 @@
 <p>I'm a passionate Full Stack Web developer skilled in MERN stack who likes to do experiments and always ready for learning new things 😃. I focuses on writing clean, elegant and efficient code ✨</p>
 
 
+## Connect with me:
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/akashpanda1701/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>
+
+</p>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&lines=Software+Engineer+!;Fullstack+Developer+!;Coder+Lover+!;Problem+Solver+!" > 
@@ -88,12 +94,6 @@
 
 
 
-## Connect with me:
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/akashpanda1701/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>
-
-</p>
 
 
 
