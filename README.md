@@ -14,14 +14,12 @@ Full stack web development course😃. I focuses on writing clean, elegant and e
 
 ## Connect with me:
 
-<p >
-  <a href="https://www.linkedin.com/in/akashpanda1701/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>
-
+<p dir="auto">
+	  <a href="https://www.linkedin.com/in/akashpanda1701/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>
+ &nbsp;
+	 <a href="https://akashpanda1701.github.io/"> <img src="https://img.shields.io/badge/PortFolio-00C7B7?style=for-the-badge&amp;labelColor=black&amp;logo=portfolio&amp;logoColor=white" style="max-width: 100%;"></a>
 </p>
-<p >
-  <a href="https://akashpanda1701.github.io/"><img src="https://cdn-icons-png.flaticon.com/512/48/48540.png"/></a>
 
-</p>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&lines=Software+Engineer+!;Fullstack+Developer+!;Coder+Lover+!;Problem+Solver+!" > 
@@ -37,9 +35,7 @@ Full stack web development course😃. I focuses on writing clean, elegant and e
 - 🔭 I’m currently working on Frontend and Backend technologies 😅
 - 👨‍💻 I’m currently learning React, Express, NodeJs, MongoDb at Masai School.
 - 💪🏼 Future Goals: Learn more technologies - Never stop implementing new ideas.
-- 👨‍💻 This is [My Portfolio]
 
--  📄 This is [My Resume]
 - 📫 How to reach me: ...*akashpanda1701@gmail.com*
 
 
@@ -89,9 +85,21 @@ Full stack web development course😃. I focuses on writing clean, elegant and e
 
 <h2 align="left"> 💻 Languages and Tools:</h2>
 
-<table align="center">
-<!-- add tools  -->
-</table>
+<br/>
+<p dir="auto"><a href="#"> <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&amp;labelColor=black&amp;logo=html5&amp;logoColor=orange" style="max-width: 100%;"> </a> &nbsp;
+<a href="#"> <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&amp;labelColor=black&amp;logo=css3&amp;logoColor=blue" style="max-width: 100%;"> </a> &nbsp;
+<a href="#"> <img src="https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&amp;labelColor=black&amp;logo=javascript&amp;logoColor=F0DB4F" style="max-width: 100%;"> </a> &nbsp;
+<a href="#"> <img src="https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&amp;labelColor=black&amp;logo=react&amp;logoColor=61DBFB" style="max-width: 100%;"> </a> &nbsp;
+<a href="#"> <img src="https://img.shields.io/badge/-Redux-007acc?style=for-the-badge&amp;labelColor=black&amp;logo=redux&amp;logoColor=007acc" style="max-width: 100%;"> </a> &nbsp;
+<a href="#"> <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&amp;logo=material&amp;logoColor=white" style="max-width: 100%;"> </a> &nbsp;
+<a href="#"> <img src="https://img.shields.io/badge/-Nodejs-609857?style=for-the-badge&amp;labelColor=black&amp;logo=node.js&amp;logoColor=609857" style="max-width: 100%;"> </a> &nbsp;
+<a href="#"> <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&amp;labelColor=black&amp;logo=express&amp;logoColor=2361DAFB" style="max-width: 100%;"> </a> &nbsp;
+<a href="#"> <img src="https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&amp;labelColor=black&amp;logo=mongoDB&amp;logoColor=white" style="max-width: 100%;"> </a> &nbsp;
+<a href="#"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;labelColor=black&amp;logo=git&amp;logoColor=white" 
+style="max-width: 100%;"> </a> &nbsp;
+<a href="#"> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&amp;labelColor=black&amp;logo=heroku&amp;logoColor=white" style="max-width: 100%;"> </a> &nbsp;
+<a href="#"> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&amp;labelColor=black&amp;logo=netlify&amp;logoColor=white" style="max-width: 100%;"> </a> &nbsp;
+</p>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
