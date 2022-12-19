@@ -18,6 +18,10 @@ Full stack web development course😃. I focuses on writing clean, elegant and e
   <a href="https://www.linkedin.com/in/akashpanda1701/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>
 
 </p>
+<p >
+  <a href="https://akashpanda1701.github.io/"><img src="https://cdn-icons-png.flaticon.com/512/48/48540.png"/></a>
+
+</p>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&lines=Software+Engineer+!;Fullstack+Developer+!;Coder+Lover+!;Problem+Solver+!" > 
