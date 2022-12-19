@@ -52,7 +52,7 @@ Full stack web development course😃. I focuses on writing clean, elegant and e
 
 <!--   <summary><b style ="text-align :center">⚡ Recent GitHub Activity</b></summary> -->
 <!--   <br/> -->
-   <a href="https://github.com/AkashPanda1701"><img alt="Akash's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AkashPanda1701&custom_title=AkashPanda1701's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/AkashPanda1701">"Akash's Activity Graph"</a>
   <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
